@@ -30,7 +30,7 @@ This version (v1.0) marks the first official **prototype release** developed for
 ##  Installation Guide
 
 ### Option 1: Android App (APK)
-1. [⬇ **Download AarogyaSahayak APK**](https://github.com/afraa786/Aarogya-Sahayak/raw/main/app-release.apk)
+1. [⬇ **Download AarogyaSahayak APK**](https://github.com/afraa786/Aarogya-Sahayak/releases/download/v1.0/app-release.apk)
 2. Enable **“Install from Unknown Sources”** in your Android device settings.
 3. Install and open the app.
 
