@@ -59,13 +59,13 @@ This version (v1.0) marks the first official **prototype release** developed for
 
 ##  Assets Overview
 
-| File | Description | SHA256 / Notes | Size |
-|------|--------------|----------------|------|
-| [app-release.apk](https://github.com/afraa786/Aarogya-Sahayak/raw/main/app-release.apk) | Android App | `88ef5fa1af6ed41c29d80be0b58ad3754b9d83f5d9759b5e61c9f3a7df30ddbd` | 70.8 MB |
-| [ArogyaSahayak-APK-1.0.zip](https://github.com/afraa786/Aarogya-Sahayak/raw/main/ArogyaSahayak-APK-1.0.zip) | Source code (ZIP) | — | 4.5 KB |
-| [ArogyaSahayak-APK-1.0.tar.gz](https://github.com/afraa786/Aarogya-Sahayak/raw/main/ArogyaSahayak-APK-1.0.tar.gz) | Source code (TAR.GZ) | — | 4.3 KB |
-| [Research Paper.pdf](https://github.com/afraa786/Aarogya-Sahayak/raw/main/Research%20Paper.pdf) | Full Research Documentation | — | 1.02 MB |
-| [Technical Report.pdf](https://github.com/afraa786/Aarogya-Sahayak/raw/main/Technial%20Report.pdf) | Technical Project Report | — | 3.05 MB |
+| File | Description  | Size |
+|------|--------------|------|
+| [app-release.apk](https://github.com/afraa786/Aarogya-Sahayak/raw/main/app-release.apk) | Android App | 70.8 MB |
+| [ArogyaSahayak-APK-1.0.zip](https://github.com/afraa786/Aarogya-Sahayak/raw/main/ArogyaSahayak-APK-1.0.zip) | Source code (ZIP) | 4.5 KB |
+| [ArogyaSahayak-APK-1.0.tar.gz](https://github.com/afraa786/Aarogya-Sahayak/raw/main/ArogyaSahayak-APK-1.0.tar.gz) | Source code (TAR.GZ) | 4.3 KB |
+| [Research Paper.pdf](https://github.com/afraa786/Aarogya-Sahayak/raw/main/Research%20Paper.pdf) | Full Research Documentation | 1.02 MB |
+| [Technical Report.pdf](https://github.com/afraa786/Aarogya-Sahayak/raw/main/Technial%20Report.pdf) | Technical Project Report | 3.05 MB |
 
 ---
 
