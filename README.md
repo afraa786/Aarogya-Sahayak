@@ -1,6 +1,6 @@
 # AarogyaSahayak v1.0
 
- **An AI-powered Health Assistant Prototype**
+ **An AI-powered Health Assistant**
 
 
 ---
@@ -53,7 +53,7 @@ This version (v1.0) marks the first official **prototype release** developed for
 - **Android Version:** 6.0 (Marshmallow) or higher  
 - **RAM:** Minimum 2 GB  
 - **Internet Connection:** Required for AI functions  
-- ⚠️ Prototype version — expect limited or test features
+- Prototype version — expect limited or test features
 
 ---
 
