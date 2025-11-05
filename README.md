@@ -1,7 +1,7 @@
 # AarogyaSahayak v1.0
 
-> **An AI-powered Health Assistant Prototype**  
-> Built by **@afraa786** for the hackathon — designed to deliver intelligent health insights and recommendations.
+ **An AI-powered Health Assistant Prototype**
+
 
 ---
 
